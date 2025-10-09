@@ -5,10 +5,11 @@ namespace Domain
     public record Discount
     {
         public string Name { get; }
-        public Discount(string name)
+        public Discount(double value)
         {
-            Name = name;
+            Name = $"{value}%";
         }
+
         public static Discount Create(double i)
         {
             if (i < 0 || i > 100)
