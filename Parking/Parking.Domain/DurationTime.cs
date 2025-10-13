@@ -3,7 +3,7 @@
     public record DurationTime
     {
         public long Time { get; }
-        public DurationTime(long time)
+        private DurationTime(long time)
         {
             Time = time;
         }

@@ -9,7 +9,7 @@ namespace Domain.Parking
     public record CustomerID
     {
         public Guid ID { get; }
-        public CustomerID(Guid id)
+        private CustomerID(Guid id)
         {
             ID = id;
         }

@@ -5,7 +5,7 @@ namespace Domain
     public record Discount
     {
         public string Name { get; }
-        public Discount(double value)
+        private Discount(double value)
         {
             Name = $"{value}%";
         }

@@ -9,7 +9,7 @@ namespace Domain.Parking
     public record Tariffs
     {
         public string TariffName { get; }
-        public Tariffs(string tariffName)
+        private Tariffs(string tariffName)
         {
             TariffName = tariffName;
         }

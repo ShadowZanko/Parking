@@ -9,7 +9,7 @@ namespace Domain.Parking
     public record NumberOfSeats
     {
         public int Number { get; }
-        public NumberOfSeats(int number)
+        private NumberOfSeats(int number)
         {
             Number = number;
         }

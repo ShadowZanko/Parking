@@ -3,7 +3,7 @@
     public record PaymentMethod
     {
         public string Payment { get; }
-        public PaymentMethod(string payment)
+        private PaymentMethod(string payment)
         {
             Payment = payment;
         }
