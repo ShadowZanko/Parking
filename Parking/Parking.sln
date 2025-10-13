@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking1", "..\Parking1\Parking1.csproj", "{3C854AC8-35CC-4B36-BE27-74AC3A1AB9B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{522C8173-ECC1-4457-B115-3B8D44E6A7E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Domain", "Parking.Domain\Parking.Domain.csproj", "{ED6EFAD9-966F-457A-98E6-0F0D60C40753}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{3C854AC8-35CC-4B36-BE27-74AC3A1AB9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C854AC8-35CC-4B36-BE27-74AC3A1AB9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C854AC8-35CC-4B36-BE27-74AC3A1AB9B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{522C8173-ECC1-4457-B115-3B8D44E6A7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{522C8173-ECC1-4457-B115-3B8D44E6A7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{522C8173-ECC1-4457-B115-3B8D44E6A7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{522C8173-ECC1-4457-B115-3B8D44E6A7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6EFAD9-966F-457A-98E6-0F0D60C40753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6EFAD9-966F-457A-98E6-0F0D60C40753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6EFAD9-966F-457A-98E6-0F0D60C40753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6EFAD9-966F-457A-98E6-0F0D60C40753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
