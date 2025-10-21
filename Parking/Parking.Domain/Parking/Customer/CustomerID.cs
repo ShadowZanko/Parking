@@ -7,7 +7,6 @@
         {
             if (value == Guid.Empty)
                 throw new ArgumentException("Идентификатор клиента не может быть пустым.");
-
             Value = value;
         }
         public static CustomerID Create(Guid value)
