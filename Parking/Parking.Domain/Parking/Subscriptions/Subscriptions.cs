@@ -1,15 +1,16 @@
-﻿using Domain.Parking;
-using System;
+﻿using System;
+using Domain.Parking;
+using Domain.Parking.Subscriptions;
 
 namespace Parking.Domain.Parking.Subscriptions
 {
     public record Subscriptions
     {
-        public SubscriptionID SubscriptionID { get; private set; }
-        public Discount Discount { get; private set; }
-        public DurationTime Duration { get; private set; }
-        public PaymentMethod PaymentMethod { get; private set; }
-        public Tariffs Tariff { get; private set; }
+        public SubscriptionID SubscriptionID { get; }
+        public Discount Discount { get; }
+        public DurationTime Duration { get; }
+        public PaymentMethod PaymentMethod { get; }
+        public Tariffs Tariff { get; }
 
         public Subscriptions(
             SubscriptionID id,

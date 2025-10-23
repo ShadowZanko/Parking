@@ -1,26 +1,27 @@
-﻿using Parking.Domain.Parking.Subscriptions;
+﻿using Domain.Parking;
+using ParkingSubscriptions = Parking.Domain.Parking.Subscriptions.Subscriptions;
 
 namespace Domain.Parking
 {
     public class Parking
     {
-        public Subscriptions Subscriptions { get; private set; }
+        public ParkingSubscriptions Subscription { get; private set; }
         public IDParking ParkingID { get; private set; }
         public NumberOfSeats NumberOfSeats { get; private set; }
-        public Tariffs Tariffs { get; private set; }
+        public Tariffs Tariff { get; private set; }
         public Customer Customer { get; private set; }
 
         public Parking(
-            Subscriptions subscriptions,
+            ParkingSubscriptions subscription,
             IDParking parkingID,
             NumberOfSeats numberOfSeats,
-            Tariffs tariffs,
+            Tariffs tariff,
             Customer customer)
         {
-            Subscriptions = subscriptions;
+            Subscription = subscription;
             ParkingID = parkingID;
             NumberOfSeats = numberOfSeats;
-            Tariffs = tariffs;
+            Tariff = tariff;
             Customer = customer;
         }
     }
