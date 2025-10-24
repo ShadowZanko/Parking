@@ -4,14 +4,14 @@ using System.Linq;
 
 namespace Domain.Parking.Enums
 {
-    public abstract class Enum<TEnum, TValue> : IEquatable<Enum<TEnum, TValue>> where TEnum : Enum<TEnum, TValue>
+    public abstract class SmartEnum<TEnum> : IEquatable<SmartEnum<TEnum>> where TEnum : SmartEnum<TEnum>
     {
-        private static readonly Dictionary<TValue, TEnum> Enums = new Dictionary<TValue, TEnum>();
+        private static readonly Dictionary<int, TEnum> Enums = new Dictionary<int, TEnum>();
 
-        public TValue Value { get; }
+        public int Value { get; }
         public string Name { get; }
 
-        protected Enum(TValue value, string name)
+        protected SmartEnum(int value, string name)
         {
             Value = value;
             Name = name;
@@ -20,7 +20,7 @@ namespace Domain.Parking.Enums
 
         public override string ToString() => Name;
 
-        public static TEnum FromValue(TValue value)
+        public static TEnum FromValue(int value)
         {
             if (Enums.TryGetValue(value, out var enumValue))
             {
@@ -31,16 +31,16 @@ namespace Domain.Parking.Enums
 
         public static IEnumerable<TEnum> GetAll() => Enums.Values.ToList();
 
-        public bool Equals(Enum<TEnum, TValue> other)
+        public bool Equals(SmartEnum<TEnum> other)
         {
             if (other is null)
                 return false;
-            return EqualityComparer<TValue>.Default.Equals(Value, other.Value);
+            return Value == other.Value;
         }
 
         public override bool Equals(object obj)
         {
-            if (obj is Enum<TEnum, TValue> otherValue)
+            if (obj is SmartEnum<TEnum> otherValue)
             {
                 return Equals(otherValue);
             }

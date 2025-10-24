@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\smartenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\smartenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\tariffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\tariffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\idparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\idparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\numberofseats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\numberofseats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\subscriptionid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\subscriptionid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\idparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\idparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\subscriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\numberofseats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\numberofseats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\tariffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\tariffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\durationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\durationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\subscriptions\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\subscriptions\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +51,20 @@
       "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\contactinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\contactinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\customername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\customername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\customername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\customername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|c:\\users\\vitas\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\parking\\parking\\parking.domain\\parking\\customer\\contactinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6EFAD9-966F-457A-98E6-0F0D60C40753}|Parking.Domain\\Parking.Domain.csproj|solutionrelative:parking.domain\\parking\\customer\\contactinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,43 +74,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Enum.cs",
-              "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Enum.cs",
-              "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Enum.cs",
-              "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Enum.cs",
-              "RelativeToolTip": "Parking.Domain\\Parking\\Enum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SmartEnum.cs",
+              "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\SmartEnum.cs",
+              "RelativeDocumentMoniker": "Parking.Domain\\Parking\\SmartEnum.cs",
+              "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\SmartEnum.cs",
+              "RelativeToolTip": "Parking.Domain\\Parking\\SmartEnum.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T06:54:25.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Tariffs.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Tariffs.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Tariffs.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Tariffs.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Tariffs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:02:43.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Parking.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Parking.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Parking.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Parking.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Parking.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:02:37.419Z",
               "EditorCaption": ""
@@ -123,27 +123,27 @@
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\NumberOfSeats.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\NumberOfSeats.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\NumberOfSeats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:02:32.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IDParking.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\IDParking.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\IDParking.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\IDParking.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\IDParking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:02:28.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Subscriptions.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\Subscriptions.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Subscriptions\\Subscriptions.cs",
@@ -156,26 +156,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "SubscriptionID.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\SubscriptionID.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Subscriptions\\SubscriptionID.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\SubscriptionID.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Subscriptions\\SubscriptionID.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:02:14.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Subscriptions\\PaymentMethod.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\PaymentMethod.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Subscriptions\\PaymentMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:02:09.316Z",
               "EditorCaption": ""
@@ -188,20 +188,20 @@
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Subscriptions\\DurationTime.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\DurationTime.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Subscriptions\\DurationTime.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAADwvywAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:59:13.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Discount.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\Discount.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Subscriptions\\Discount.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Subscriptions\\Discount.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Subscriptions\\Discount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:59:09.543Z",
               "EditorCaption": ""
@@ -214,7 +214,7 @@
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Customer\\PhoneNumber.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\PhoneNumber.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Customer\\PhoneNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:59:05.782Z",
               "EditorCaption": ""
@@ -227,40 +227,40 @@
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Customer\\Email.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\Email.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Customer\\Email.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvyQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:58:58.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "CustomerName.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\CustomerName.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Customer\\CustomerName.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\CustomerName.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Customer\\CustomerName.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:58:54.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\Customer.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Customer\\Customer.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\Customer.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Customer\\Customer.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:58:39.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "CustomerID.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\CustomerID.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Customer\\CustomerID.cs",
@@ -273,13 +273,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ContactInformation.cs",
               "DocumentMoniker": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\ContactInformation.cs",
               "RelativeDocumentMoniker": "Parking.Domain\\Parking\\Customer\\ContactInformation.cs",
               "ToolTip": "C:\\Users\\vitas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0435 \u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\Parking\\Parking\\Parking.Domain\\Parking\\Customer\\ContactInformation.cs",
               "RelativeToolTip": "Parking.Domain\\Parking\\Customer\\ContactInformation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T17:39:22.867Z",
               "EditorCaption": ""
