@@ -17,7 +17,7 @@ namespace Domain.Parking.Enums
             Name = name;
             Enums[value] = (TEnum)this;
         }
-
+        //Test
         public override string ToString() => Name;
 
         public static TEnum FromValue(int value)
