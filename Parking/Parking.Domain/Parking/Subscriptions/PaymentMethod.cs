@@ -1,14 +1,29 @@
 ﻿using System;
+using System.Linq;
 
-namespace Parking.Domain.Parking.Subscriptions
+namespace Domain.Parking.Subscriptions
 {
     public record PaymentMethod
     {
-        public string Payment { get; }
-
-        private PaymentMethod(string payment)
+        public enum PaymentMethodType
         {
-            Payment = payment;
+            Cash,
+            CreditCard,
+            BankTransfer,
+            MobilePayment,
+            ElectronicWallet
+        }
+
+        public PaymentMethodType Type { get; }
+
+        private PaymentMethod(PaymentMethodType type)
+        {
+            Type = type;
+        }
+
+        public static PaymentMethod Create(PaymentMethodType type)
+        {
+            return new PaymentMethod(type);
         }
 
         public static PaymentMethod Create(string name)
@@ -20,7 +35,12 @@ namespace Parking.Domain.Parking.Subscriptions
                 throw new ArgumentException("Способ оплаты слишком короткий.");
             if (forma.Length > 50)
                 throw new ArgumentException("Способ оплаты слишком длинный.");
-            return new PaymentMethod(forma);
+
+            if (Enum.TryParse(forma, true, out PaymentMethodType type))
+            {
+                return new PaymentMethod(type);
+            }
+            throw new ArgumentException("Некорректный способ оплаты.");
         }
     }
 }

@@ -4,26 +4,39 @@ namespace Domain.Parking
 {
     public record Tariffs
     {
-        public string TariffName { get; }
-
-        private Tariffs(string tariffName)
+        public enum TariffType
         {
-            TariffName = tariffName;
+            Hourly,
+            Daily,
+            Weekly,
+            Monthly,
+            Yearly
         }
 
-        public static Tariffs Create(string name)
+        public TariffType Type { get; }
+        public string TariffName { get; }
+        public decimal Price { get; }
+
+        private Tariffs(TariffType type, string tariffName, decimal price)
+        {
+            Type = type;
+            TariffName = tariffName;
+            Price = price;
+        }
+
+        public static Tariffs Create(TariffType type, string name, decimal price)
         {
             if (string.IsNullOrWhiteSpace(name))
                 throw new ArgumentException("Название тарифа не может быть пустым.", nameof(name));
-
             string forma = name.Trim();
-
             if (forma.Length <= 1)
                 throw new ArgumentException("Название тарифа слишком короткое.");
             if (forma.Length > 50)
                 throw new ArgumentException("Название тарифа слишком длинное.");
+            if (price <= 0)
+                throw new ArgumentException("Цена должна быть положительным числом.", nameof(price));
 
-            return new Tariffs(forma);
+            return new Tariffs(type, forma, price);
         }
     }
 }
